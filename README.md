@@ -1,4 +1,4 @@
-#LiveDocs
+# LiveDocs
 ![Project Banner](./public/assets/images/Cover.png)
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
